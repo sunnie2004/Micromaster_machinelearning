@@ -1,0 +1,3 @@
+[submodule "machinelearning/Automatic_Review_Analyzer"]
+	path = machinelearning/Automatic_Review_Analyzer
+	url = https://github.com/sunnie2004/Micromaster_machinelearning.git
