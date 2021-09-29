@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18400108-ac1e-4256-9794-504573ac1395" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Z0SZnNqInEW8rffUMngUHEyPfO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Anaconda3/envs/6.86x/Scripts" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.conv">
+    <configuration name="conv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mnist" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part2-twodigit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part2-twodigit/conv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mlp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mnist" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part2-twodigit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part2-twodigit/mlp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nnet_cnn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mnist" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part2-mnist" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part2-mnist/nnet_cnn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="nnet_fc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mnist" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part2-mnist" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part2-mnist/nnet_fc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mnist" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part2-mnist" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part2-mnist/train_utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.conv" />
+        <item itemvalue="Python.mlp" />
+        <item itemvalue="Python.nnet_cnn" />
+        <item itemvalue="Python.train_utils" />
+        <item itemvalue="Python.nnet_fc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18400108-ac1e-4256-9794-504573ac1395" name="Default Changelist" comment="" />
+      <created>1583974575354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583974575354</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="713" y="360" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584231574457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="713" y="360" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584231574457" />
+    <state x="1103" y="510" key="FileChooserDialogImpl" timestamp="1585191631961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="510" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585191631961" />
+    <state width="1362" height="303" key="GridCell.Tab.0.bottom" timestamp="1586236490768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="303" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586236490768" />
+    <state width="1362" height="303" key="GridCell.Tab.0.center" timestamp="1586236490768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="303" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586236490768" />
+    <state width="1362" height="303" key="GridCell.Tab.0.left" timestamp="1586236490768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="303" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586236490768" />
+    <state width="1362" height="303" key="GridCell.Tab.0.right" timestamp="1586236490768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="303" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586236490768" />
+    <state width="1362" height="303" key="GridCell.Tab.1.bottom" timestamp="1586236490768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="303" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586236490768" />
+    <state width="1362" height="303" key="GridCell.Tab.1.center" timestamp="1586236490768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="303" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586236490768" />
+    <state width="1362" height="303" key="GridCell.Tab.1.left" timestamp="1586236490768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="303" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586236490768" />
+    <state width="1362" height="303" key="GridCell.Tab.1.right" timestamp="1586236490768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="303" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586236490768" />
+    <state x="660" y="183" key="SettingsEditor" timestamp="1585191649043">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="660" y="183" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585191649043" />
+    <state width="700" height="468" key="XDebugger.FullValuePopup" timestamp="1586221024776">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="700" height="468" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1586221024776" />
+    <state x="410" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1586214495668">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="410" y="369" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586214495668" />
+    <state x="792" y="269" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1584057867736">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="792" y="269" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1584057867736" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/part2-nn/neural_nets.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/part2-nn/neural_nets.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/part2-nn/neural_nets.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/part2-twodigit/train_utils.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/part2-twodigit/train_utils.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/part2-twodigit/mlp.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/part2-twodigit/mlp.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/part2-twodigit/mlp.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/part2-twodigit/mlp.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/part2-twodigit/mlp.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/part2-twodigit/mlp.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/part2-twodigit/mlp.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="row_number_X" language="Python" />
+        <watch expression="row_number_theta" />
+        <watch expression="J" />
+        <watch expression="Y[i]" />
+        <watch expression="i" />
+        <watch expression="np.linalg.norm(X[i,:]" language="Python" />
+        <watch expression="output_layer_error" />
+        <watch expression="hidden_layer_error" />
+        <watch expression="np.vectorize(output_layer_activation_derivative)(output)" />
+        <watch expression="np.transpose(self.hidden_to_output_weights)" />
+        <watch expression="(np.vectorize(output_layer_activation_derivative)(output))" />
+        <watch expression="(np.vectorize(rectified_linear_unit_derivative)(hidden_layer_weighted_input))" />
+        <watch expression="np.transpose(input_values)" />
+        <watch expression="input_to_hidden_weight_gradients" language="Python" />
+        <watch expression="(hidden_layer_vectorize(hidden_layer_weighted_input)" />
+        <watch expression="np.multiply((hidden_layer_vectorize(hidden_layer_weighted_input)),&#10;                                            np.transpose(self.hidden_to_output_weights)" language="Python" />
+        <watch expression="output_layer_vectorize(output)" />
+        <watch expression="input.shape" />
+        <watch expression="permutation" />
+        <watch expression="out_first_digit" />
+        <watch expression="xf" />
+        <watch expression="out1" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
